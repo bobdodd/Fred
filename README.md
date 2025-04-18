@@ -1,0 +1,3 @@
+# Fred
+
+A Python project.
